@@ -4,7 +4,9 @@ Sổ tay cá nhân ghi lại các quán ăn/uống đã từng ghé hoặc muố
 chỉ, giờ mở cửa, số điện thoại và vài dòng nhận xét. Chạy hoàn toàn bằng
 HTML/CSS/JS thuần, không cần build, không cần server hay database.
 
-🔗 **Xem trực tiếp:** https://tranthaihoa-0409.github.io/so_tay_quan_an/
+🔗 **Xem trực tiếp:**
+- https://tranthaihoa-0409.github.io/so_tay_quan_an/
+- https://sotayquanan.vercel.app/
 
 ---
 
