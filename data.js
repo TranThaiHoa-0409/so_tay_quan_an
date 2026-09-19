@@ -259,4 +259,12 @@ const DATA = [
     ],
     note: "Trân châu tươi jumbo, được quảng cáo là bự nhất Tân Phú. Khách khen nước ngon, nhân viên nhiệt tình, có tặng kèm kẹo dẻo."
   },
+  {
+    name: "Cha&Co Nguyễn Trãi Matcha Latte",
+    categories: ["Cafe", "Matcha"],
+    branches: [
+      { label: "", address: "215C Nguyễn Trãi, P. Cầu Ông Lãnh, Quận 1", hours: "", phone: "" }
+    ],
+    note: "Quán chuyên các món matcha latte."
+  },
 ];
